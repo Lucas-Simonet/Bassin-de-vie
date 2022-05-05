@@ -1,0 +1,2 @@
+geopandas==0.10.2
+MarkupSafe==2.0.1
