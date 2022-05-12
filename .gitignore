@@ -4,3 +4,5 @@ _pycache_/
 .gitattributes
 config.py
 
+__pycache__/config.cpython-38.pyc
+*.ipynb
