@@ -1,0 +1,6 @@
+Data/
+_pycache_/
+.ipynb.checkpoints/
+.gitattributes
+config.py
+
