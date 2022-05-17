@@ -15,6 +15,9 @@ Fond de carte des communes et des bassins de vie associés
 </p>
 
  
+ 
+Le fond de carte créé est accessible ici : https://www.data.gouv.fr/fr/datasets/fond-de-carte-des-bassins-de-vie-2012-au-1er-janvier-2019/
+ 
  ressources :   
  https://www.insee.fr/fr/information/2115016  
  https://www.data.gouv.fr/fr/datasets/decoupage-administratif-communal-francais-issu-d-openstreetmap/
