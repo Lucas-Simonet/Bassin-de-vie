@@ -1,0 +1,8 @@
+Data/
+_pycache_/
+.ipynb.checkpoints/
+.gitattributes
+config.py
+__pycache__/config.cpython-38.pyc
+*.ipynb
+.ipynb_checkpoints/Commune2Bassin_de_Vie-checkpoint.ipynb
